@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diseno de aplicacion", "Diseno de aplicacion", "{57490465-31CB-4564-9E58-FAFF628C27EF}"
 	ProjectSection(SolutionItems) = preProject
-		UML.txt = UML.txt
+		Diseno de aplicacion\UML.txt = Diseno de aplicacion\UML.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalEscuela", "PersonalEscuela\PersonalEscuela.csproj", "{3CF863C4-9D38-4E71-B94F-B9568AE22A96}"
