@@ -15,7 +15,7 @@
 * Clave: string
 
 -Profesor (hereda de Persona)
-* Sueldo
+* Sueldo: Decimal
 
 -Materia
 * IdMateria: Int
